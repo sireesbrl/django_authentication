@@ -1,0 +1,9 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth
+dj-rest-auth[with_social]
+django-cors-headers
+python-decouple
+datetime
+drf-spectacular
